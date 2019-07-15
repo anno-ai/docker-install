@@ -1,3 +1,4 @@
-# anno.ai-scripts
+# Docker Install
 
-Scripts to install pre-req software.
+### Amazom Linux 2
+```curl -sSL https://bit.ly/2JBOLMt | sudo sh```
