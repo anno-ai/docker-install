@@ -1,4 +1,4 @@
 # Docker Install
 
 ### Amazon Linux 2
-```curl -sSL https://bit.ly/2Y5tEdm | sudo sh```
+```wget https://raw.githubusercontent.com/anno-ai/docker-install/master/aws/amazon-linux-2/userdata.txt```
