@@ -4,4 +4,4 @@
 ```curl -sSL https://bit.ly/2JBOLMt | sudo sh```
 
 ### Ubuntu18
-```curl -sSL https://raw.githubusercontent.com/anno-ai/docker-install/master/ubuntu18/userdata.txt | sudo sh```
+```curl -sSL http://bit.ly/DkrUbnt18 | sudo sh```
