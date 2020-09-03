@@ -32,7 +32,7 @@ echo "Installing docker-ce, docker-ce-cli and containerd.io..."
 sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 
 sudo groupadd docker
-sudo usermod -aG docker ubuntu
+sudo usermod -aG docker $USER
 sudo systemctl enable docker
 
 echo "Installing docker-compose..."
